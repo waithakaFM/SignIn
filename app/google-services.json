@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212739800652",
+    "project_id": "signin-b5042",
+    "storage_bucket": "signin-b5042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212739800652:android:836abc1616d9f138a7fee9",
+        "android_client_info": {
+          "package_name": "com.francis.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212739800652-c5b2ioqedkgq02h1rkaijmtq6mrv8hve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSUmfGxhJfwb0CV-UmAmTVkAEPTmMlAHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212739800652-c5b2ioqedkgq02h1rkaijmtq6mrv8hve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
